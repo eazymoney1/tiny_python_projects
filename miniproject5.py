@@ -1,6 +1,5 @@
 Valdimir Pressat
-#!/usr/bin/env python3
-"""Low-memory Howler"""
+
 
 import argparse
 import os
